@@ -1,8 +1,8 @@
 import React from "react"
-import { Link } from "react-router-dom"
+import { Link, Switch, Route } from "react-router-dom"
 
-import Settings from "./Settings"
-import Info from "./Info"
+// import Settings from "./Settings"
+// import Info from "./Info"
 
 function Profile() {
     return (
